@@ -4,6 +4,8 @@
 
 A simple TicTacToe game implementation in Java.
 
+This is a minor change.
+
 ## Features
 
 - Console-based gameplay
